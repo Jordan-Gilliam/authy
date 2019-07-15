@@ -8,7 +8,10 @@ src/config/typeorm.config.ts
 
 # compiled output
 /dist
-/node_modules
+
+# /node_modules
+# /react-mobx/client/node_modules
+# react-mobx/client/node_modules/.bin
 
 # Logs
 logs
