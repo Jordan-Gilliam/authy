@@ -30,4 +30,5 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 react-mobx/client/node_modules
+react-apollo/client/node_modules
 react-mobx/server/node_modules
